@@ -1,5 +1,6 @@
 # Reading Notes
-## notes for every class, which are in a table that contain a link for every class note.
+## notes for every class, 
+## which are in a table that contain a link for every class note.
 
 
 ## Code 401 - Advanced Software Development
