@@ -1,5 +1,6 @@
 # Reading Notes
 ### notes for every class, which are in a table that contain a link for every class note.
+---
 
 ## Prep-Course
 ### Contents Table:
@@ -7,9 +8,10 @@
 |   Class             |     Link                                                                                                |
 | ----------------    | ----------------------------------------------------                                                    |
 | Git Practice        | [Learning-Git-Branching](https://github.com/Esmail-Jawabreh/Learning-Git-Branching#42-juggling-commits) |
-| Introduction to SQL | [ Learn SQL ](https://github.com/Esmail-Jawabreh/SQL-Bolt)                                               |
+| Introduction to SQL | [Learn SQL](https://github.com/Esmail-Jawabreh/reading-notes/blob/main/PrepCourse/sql.MD)               |
 
 
+---
 
 
 ## Code 401 - Advanced Software Development
