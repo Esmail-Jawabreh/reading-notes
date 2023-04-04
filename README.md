@@ -1,5 +1,5 @@
 # Reading Notes
-### notes for every class, which are in a table that contain a link for every class note.
+### Notes for every class, which are in a table that contain a link for every class note.
 ---
 
 ## Prep-Course
