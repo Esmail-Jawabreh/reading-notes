@@ -28,4 +28,4 @@
 
 ## Things I want to know more about : Nothing for now.
 
-** Esmail Jawabreh **
+**- Esmail Jawabreh**
