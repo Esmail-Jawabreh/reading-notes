@@ -15,8 +15,8 @@
 ## Overall, "Learn SQL" is a comprehensive guide to relational databases and SQL, making it an invaluable resource for both beginners and experienced users looking to enhance their knowledge and skills.
 ---
 
-### in the end,
-### I recommend [SQL-Bolt](https://sqlbolt.com/) a series of interactive lessons and exercises designed to help you quickly learn SQL right in your browser.
+### in the end, 
+### I recommend [SQL-Bolt](https://sqlbolt.com/) which is a series of interactive lessons and exercises designed to help you quickly learn SQL right in your browser.
 ### and [here](https://github.com/Esmail-Jawabreh/SQL-Bolt) is my answers.
 ![END](./END.png)
 
