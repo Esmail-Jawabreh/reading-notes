@@ -5,7 +5,8 @@
 ## Code 401 - Advanced Software Development
 ### Table Contents:
 
-|   Class     |     Link    |
-| ----------- | ----------- |
-|  Class-01   | [Read-01](https://github.com/Esmail-Jawabreh/reading-notes/blob/main/Read%20Classes/Read-Class-01.md) |
-|  Class-02   | [Read-02](https://github.com/Esmail-Jawabreh/reading-notes/blob/main/Read%20Classes/Read-Class-02.md) |
+|   Class                |     Link                                                                                                |
+| ----------------       | ----------------------------------------------------                                                    |
+| Learning Git Branching | [Learning-Git-Branching](https://github.com/Esmail-Jawabreh/Learning-Git-Branching#42-juggling-commits) |
+|       Class-01         | [Read-01](https://github.com/Esmail-Jawabreh/reading-notes/blob/main/Read%20Classes/Read-Class-01.md)   |
+|       Class-02         | [Read-02](https://github.com/Esmail-Jawabreh/reading-notes/blob/main/Read%20Classes/Read-Class-02.md)   |
