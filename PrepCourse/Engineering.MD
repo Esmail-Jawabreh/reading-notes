@@ -114,6 +114,7 @@ If you encounter errors or bugs, don't get discouraged. Instead, learn from your
 <br>
 
 ### What are 3 things I’ll start doing to “un-stick” myself whenever I get stuck on tough piece of code, logic, or feature?
+<br>
 
 #### When you get stuck on a tough piece of code, logic, or feature, it can be frustrating and demotivating. 
 
