@@ -22,12 +22,12 @@
 
 ---
 
-#### in the end, 
+#### in the end; 
 #### I recommend [SQL-Bolt](https://sqlbolt.com/), which is a series of interactive lessons and exercises designed to help you quickly learn SQL right in your browser.
-#### and [here](https://github.com/Esmail-Jawabreh/SQL-Bolt) youc find my answers.
+#### and [here](https://github.com/Esmail-Jawabreh/SQL-Bolt) you can find my answers.
 
 ---
-![END](./END.png)
+![END](./Assets/END.png)
 
 --- 
 

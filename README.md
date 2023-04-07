@@ -1,5 +1,5 @@
 # Reading Notes
-#### My notes in ASAC-LTUC, which are in a tables that contain a link for every note.
+#### "My notes in ASAC-LTUC Courses, which are in tables that contain a link for every note."
 
 ---
 
