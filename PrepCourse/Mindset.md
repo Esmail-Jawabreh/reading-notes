@@ -11,6 +11,7 @@
 #### The Growth Mindset, on the other hand, empowers individuals to embrace challenges as opportunities for growth and learning, and to view failure as a natural part of the learning process. This mindset encourages individuals to take risks, push past their comfort zones, and persevere in the face of obstacles.
 
 --- 
+<br>
 
 ### So how can you cultivate a Growth Mindset? 
 #### Here are some strategies to get started:
@@ -28,11 +29,13 @@
 </ul>
 
 ---
+<br>
 
 #### By embracing the Growth Mindset, you can unlock your potential for success and achieve your goals, both personally and professionally. Remember, the only limits to what you can achieve are the ones you set for yourself. 
 #### So why not adopt a Growth Mindset and see how far you can go?
 
 ---
+<br>
 
 ### Things I want to know more about:
 

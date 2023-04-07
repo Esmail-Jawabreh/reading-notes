@@ -12,6 +12,7 @@
 | Introduction to SQL | [Learn SQL](./PrepCourse/Sql.MD) , [SQLBolt](https://github.com/Esmail-Jawabreh/SQL-Bolt)               |
 | The Command Line    | [Learn Command Line](./PrepCourse/Terminal.MD)                                                          |
 | The Growth Mindset  | [Mindset](./PrepCourse/Mindset.md)                                                                      |
+| Data Structures and Algorithms | [DSA](./PrepCourse/DSA.MD)                                                                   |
 
 ---
 
