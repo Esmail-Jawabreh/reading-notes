@@ -1,7 +1,6 @@
 # The Command Line
----
 
-## The Command Line
+### The Command Line
 <ul> 
 
 <li> What is it ? </li> 
@@ -20,7 +19,7 @@
 
 ---
 
-## Basic Navigation
+### Basic Navigation
 
 <ul> 
     <li> An introduction to the Linux directory system and how to get around it. </li> 
@@ -33,7 +32,7 @@
 
 ---
 
-## More About Files
+### More About Files
 <ul>
     <li> some interesting characteristics of files and directories in a Linux environment. </li> 
         <ul>
@@ -45,7 +44,7 @@
 
 ---
 
-## Manual Pages
+### Manual Pages
 <ul>
     <li> how to make the most of the Linux commands you are learning. </li> 
         <ul>
@@ -57,7 +56,7 @@
 
 ---
 
-## File Manipulation 
+### File Manipulation 
 <ul>
     <li> make, remove, rename, copy and move files and directories. </li> 
         <ul>
@@ -72,7 +71,7 @@
 
 ---
 
-## Cheat Sheet
+### Cheat Sheet
 #### A quick reference for the main points covered in this tutorial: [reference](https://ryanstutorials.net/linuxtutorial/cheatsheet.php), [Linux Tutorial](https://ryanstutorials.net/linuxtutorial/).
 
 
