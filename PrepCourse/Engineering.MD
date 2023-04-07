@@ -1,5 +1,7 @@
 # Engineering Readings
 
+<br>
+
 ### Steps of solving problems:
 
 <ul>
@@ -112,13 +114,10 @@ If you encounter errors or bugs, don't get discouraged. Instead, learn from your
 <br>
 
 ### What are 3 things I’ll start doing to “un-stick” myself whenever I get stuck on tough piece of code, logic, or feature?
-<br>
 
 #### When you get stuck on a tough piece of code, logic, or feature, it can be frustrating and demotivating. 
-<br>
 
 #### Here are three things you can start doing to "un-stick" yourself and get back on track:
-<br>
 
 - <strong>Take a break:</strong><br>
 Sometimes, the best thing you can do is step away from the problem and take a break. This can help clear your mind and give you a fresh perspective when you return to the task. Go for a walk, grab a snack, or do something else entirely to take your mind off the problem.
