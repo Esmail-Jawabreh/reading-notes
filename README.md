@@ -9,7 +9,7 @@
 | Title               | Link                                                                                                    |
 | ----------------    | ----------------------------------------------------                                                    |
 | Git Practice        | [Learning-Git-Branching](https://github.com/Esmail-Jawabreh/Learning-Git-Branching#42-juggling-commits) |
-| Introduction to SQL | [Learn SQL](https://github.com/Esmail-Jawabreh/reading-notes/blob/main/PrepCourse/sql.MD) , [SQLBolt](https://github.com/Esmail-Jawabreh/SQL-Bolt)|
+| Introduction to SQL | [Learn SQL](https://github.com/Esmail-Jawabreh/reading-notes/blob/main/PrepCourse/Sql.MD) , [SQLBolt](https://github.com/Esmail-Jawabreh/SQL-Bolt)|
 | The Command Line    | [Learn Command Line](https://github.com/Esmail-Jawabreh/reading-notes/blob/main/PrepCourse/Terminal.MD) |
 
 ---
