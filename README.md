@@ -13,6 +13,7 @@
 | The Command Line    | [Learn Command Line](./PrepCourse/Terminal.MD)                                                          |
 | The Growth Mindset  | [Mindset](./PrepCourse/Mindset.md)                                                                      |
 | Data Structures and Algorithms | [DSA](./PrepCourse/DSA.MD)                                                                   |
+| Engineering Readings | [Engineering](./PrepCourse/Engineering.MD)                                                             |
 
 ---
 
