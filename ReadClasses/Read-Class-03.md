@@ -9,7 +9,7 @@
 <ul>
 <br>
 
-<li><strong>open()</strong></li>
+### <li><strong>open()</strong></li>
 
 #### This function opens a file and returns a file object. 
 #### You need to specify the file name and the mode in which you want to open the file. 
@@ -22,7 +22,7 @@ file = open("example.txt", "r")
 
 <br>
 
-<li><strong>read()</strong></li>
+### <li><strong>read()</strong></li>
 
 #### This function reads the contents of a file. 
 #### You can specify the number of bytes you want to read, or leave it blank to read the entire file. 
@@ -39,7 +39,7 @@ content = file.read(10)
 
 <br>
 
-<li><strong>write()</strong></li>
+### <li><strong>write()</strong></li>
 
 #### This function writes data to a file. 
 #### You need to specify the data you want to write to the file. 
@@ -53,7 +53,7 @@ file.write("This is a sample text.")
 
 <br>
 
-<li><strong>close()</strong></li>
+### <li><strong>close()</strong></li>
 
 
 #### This function closes the file you have opened. 
