@@ -28,34 +28,40 @@
 <ul>
 
 <br>
-<li><strong>Arrays:</strong> An array is a collection of elements of the same data type, stored in a contiguous block of memory.
+<li><strong>Arrays:</strong><br>
+An array is a collection of elements of the same data type, stored in a contiguous block of memory.
 
 It provides efficient indexing and accessing of elements.</li>
 
 <br>
-<li><strong>Linked Lists:</strong> A linked list is a collection of elements, where each element (node) contains a reference to the next element in the list.
+<li><strong>Linked Lists:</strong><br>
+A linked list is a collection of elements, where each element (node) contains a reference to the next element in the list.
 
 It provides dynamic memory allocation and efficient insertion and deletion operations.</li>
 
 <br>
-<li><strong>Stacks:</strong> A stack is a collection of elements that follows the LIFO (Last In First Out) principle, where the last element added is the first one to be removed. 
+<li><strong>Stacks:</strong><br>
+A stack is a collection of elements that follows the LIFO (Last In First Out) principle, where the last element added is the first one to be removed. 
 
 It allows adding and removing elements from only one end, making it useful for tasks that involve tracking history or undoing actions.</li>
 
 <br>
-<li><strong>Queues:</strong> A queue is a collection of elements that follows the FIFO (First In First Out) principle, where the first element added is the first one to be removed.
+<li><strong>Queues:</strong><br>
+A queue is a collection of elements that follows the FIFO (First In First Out) principle, where the first element added is the first one to be removed.
 
 It allows adding and removing elements from opposite ends, making it useful for tasks that involve scheduling or processing tasks in a certain order.</li>
 
 <br>
-<li><strong>Trees:</strong> A tree is a collection of nodes, where each node has a parent and zero or more children.
+<li><strong>Trees:</strong><br>
+A tree is a collection of nodes, where each node has a parent and zero or more children.
 
 It provides a hierarchical structure and efficient searching operations.
 
 Common types of trees include binary trees, AVL trees, and red-black trees.</li>
 
 <br>
-<li><strong>Graphs:</strong> A graph is a collection of nodes (vertices) and edges, where each edge connects two vertices.
+<li><strong>Graphs:</strong><br>
+A graph is a collection of nodes (vertices) and edges, where each edge connects two vertices.
 
 It allows modeling complex relationships and finding shortest paths. 
 
@@ -63,14 +69,16 @@ Common types of graphs include directed graphs, undirected graphs, weighted grap
 
 
 <br>
-<li><strong>Hash Tables:</strong> A hash table is a collection of key-value pairs, where the key is used to index the value. 
+<li><strong>Hash Tables:</strong><br>
+A hash table is a collection of key-value pairs, where the key is used to index the value. 
 
 It allows fast retrieval and insertion of elements.
 
 Hash tables are commonly used for implementing dictionaries and caches.</li>
 
 <br>
-<li><strong>Heaps:</strong> A heap is a binary tree data structure, where the parent nodes are always greater (max heap) or smaller (min heap) than their children. 
+<li><strong>Heaps:</strong><br>
+A heap is a binary tree data structure, where the parent nodes are always greater (max heap) or smaller (min heap) than their children. 
 
 It allows efficient sorting and priority queue operations. 
 
