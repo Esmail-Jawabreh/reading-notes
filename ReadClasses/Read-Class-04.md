@@ -4,11 +4,9 @@
 <br>
 
 #### Python supports object-oriented programming (OOP), which uses classes to create objects with attributes and methods. 
-<br>
 
 #### A class is a blueprint for creating objects, while an object is an instance of a class. 
 #### Inheritance allows us to create new classes that inherit attributes and methods from existing classes. 
-<br>
 
 #### These concepts help create more modular and maintainable code in Python.
 ---
