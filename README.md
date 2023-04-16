@@ -26,8 +26,8 @@
 |       Class-02         | [Read-02](./ReadClasses/Read-Class-02.md) | [Lab-02](https://github.com/Esmail-Jawabreh/math-series)          | [CC-02](https://github.com/Esmail-Jawabreh/data-structures-and-algorithms/tree/main/CC/arrayInsertShift) |
 |       Class-03         | [Read-03](./ReadClasses/Read-Class-03.md) | [Lab-03](https://github.com/Esmail-Jawabreh/madlib-cli)           | [CC-03](https://github.com/Esmail-Jawabreh/data-structures-and-algorithms/tree/main/CC/arrayInsertShift) |
 |       Class-04         | [Read-04](./ReadClasses/Read-Class-04.md) | [Lab-04](https://github.com/Esmail-Jawabreh/pythonic-garage-band) | [CC-04](https://github.com/Esmail-Jawabreh/data-structures-and-algorithms/tree/main/CC/Mock_Interviews)  |
-|       Class-05         | [Read-05](./ReadClasses/Read-Class-05.md) | - - - | [CC-05]()  |
-|       Class-06         | [Read-06](./ReadClasses/Read-Class-06.md) | [Lab-06]() | [CC-06]()  |
+|       Class-05         | [Read-05](./ReadClasses/Read-Class-05.md) | - - - | [CC-05](https://github.com/Esmail-Jawabreh/data-structures-and-algorithms/tree/main/CC/linkedLists)  |
+|       Class-06         | [Read-06](./ReadClasses/Read-Class-06.md) | [Lab-06]() | [CC-06](https://github.com/Esmail-Jawabreh/data-structures-and-algorithms/tree/main/CC/linkedLists)  |
 
 --- 
 
