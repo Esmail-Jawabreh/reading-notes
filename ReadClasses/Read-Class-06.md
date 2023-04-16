@@ -28,7 +28,6 @@ random_number = random.randint(1, 10)
 #### Risk analysis in software testing is the process of identifying potential risks and evaluating their likelihood and impact on the software being developed or tested. This helps the testers and developers prioritize their efforts and focus on the areas of the software that are most likely to cause problems or have the greatest impact if something goes wrong.
 
 #### The following are the steps involved in performing risk analysis in software testing:
-<br>
 
 - Identify potential risks: The first step is to identify potential risks that could impact the software being developed or tested. This can be done by brainstorming with the development and testing team, reviewing the project requirements and design, and analyzing previous similar projects.
 
@@ -49,7 +48,6 @@ random_number = random.randint(1, 10)
 #### Test coverage is a measure of how much of a software application has been tested. It is used to determine the completeness and effectiveness of a testing process, and to identify areas of the software that have not been tested or need further testing.
 
 #### There are several types of test coverage measures, including:
-<br>
 
 - Statement coverage: This measures the percentage of statements in the code that have been executed during testing.
 
