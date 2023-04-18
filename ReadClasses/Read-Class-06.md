@@ -1,11 +1,11 @@
 # Class-06
 
-### Linked Lists
+### Ten Thousand Game 1
 <br>
 
 ### Random Module in Python
 
-#### he random module in Python provides a set of functions for generating random numbers and making random selections from sequences. These functions are useful in a variety of applications such as simulations, games, cryptography, and statistical analysis.
+#### the random module in Python provides a set of functions for generating random numbers and making random selections from sequences. These functions are useful in a variety of applications such as simulations, games, cryptography, and statistical analysis.
 
 #### To use the random module, you need to first import it using the import statement:
 ```
