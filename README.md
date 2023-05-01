@@ -29,7 +29,8 @@
 |       Class-05         | [Read-05](./ReadClasses/Read-Class-05.md) | - - - - -                                                         | [CC-05](https://github.com/Esmail-Jawabreh/data-structures-and-algorithms/tree/main/CC/linkedLists)       |
 |       Class-06         | [Read-06](./ReadClasses/Read-Class-06.md) | [Lab-06](https://github.com/Esmail-Jawabreh/ten-thousand)         | [CC-06](https://github.com/Esmail-Jawabreh/data-structures-and-algorithms/tree/main/CC/linkedLists)       |
 |       Class-07         | [Read-07](./ReadClasses/Read-Class-07.md) | [Lab-07](https://github.com/Esmail-Jawabreh/ten-thousand)         | [CC-07](https://github.com/Esmail-Jawabreh/data-structures-and-algorithms/tree/main/CC/linkedLists)       |
-|       Class-08         | [Read-08](./ReadClasses/Read-Class-08.md) | [Lab-08]() | [CC-08]() |
+|       Class-08         | [Read-08](./ReadClasses/Read-Class-08.md) | [Lab-08](https://github.com/Esmail-Jawabreh/ten-thousand)         | [CC-08](https://github.com/Esmail-Jawabreh/data-structures-and-algorithms/tree/main/CC/linkedLists)       |
+|       Class-09         | [Read-09](./ReadClasses/Read-Class-09.md) | [Lab-09]() | [CC-09]() |
 
 --- 
 
