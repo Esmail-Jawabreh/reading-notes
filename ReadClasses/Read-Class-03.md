@@ -1,5 +1,7 @@
 # Class-03
 
+### FileIO & Exceptions
+<br>
 
 #### In Python, File Input/Output (IO) refers to the process of reading data from or writing data to a file. 
 #### Python provides built-in functions and modules to perform these operations.
