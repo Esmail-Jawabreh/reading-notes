@@ -32,7 +32,7 @@
 |    08    | Ten Thousand 3      | [Read](./ReadClasses/Read-Class-08.md) | [Lab](https://github.com/Esmail-Jawabreh/ten-thousand)         | [CC](https://github.com/Esmail-Jawabreh/data-structures-and-algorithms/tree/main/CC/linkedLists)          |
 |    09    | Ten Thousand 4      | [Read](./ReadClasses/Read-Class-09.md) | [Lab](https://github.com/Esmail-Jawabreh/ten-thousand)         | [CC](https://github.com/Esmail-Jawabreh/data-structures-and-algorithms/tree/main/CC/Mock_Interviews/CC09) |
 |    10    | Stacks and Queues   | [Read](./ReadClasses/Read-Class-10.md) | - - -                                                          | [CC](https://github.com/Esmail-Jawabreh/data-structures-and-algorithms/tree/main/CC/stack_and_queue)      |
-|    11    | Data Analysis       | [Read](./ReadClasses/Read-Class-11.md) | [Lab]() | [CC]() |
+|    11    | Data Analysis       | [Read](./ReadClasses/Read-Class-11.md) | [Lab](https://github.com/Esmail-Jawabreh/1980-ChessBoard)      | [CC](https://github.com/Esmail-Jawabreh/data-structures-and-algorithms/tree/main/CC/stack_and_queue)      |
 
 --- 
 
