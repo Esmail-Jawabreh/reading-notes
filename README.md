@@ -20,7 +20,7 @@
 ### Code 401 - Advanced Software Development
 #### Contents Table:
 
-|   Class  | Title               |     Link                               | Lab                                                            | Code Challenge                                                                                               | 
+|   Class  | Title               |     Read                               | Lab                                                            | Code Challenge                                                                                               | 
 |    ---   |  ---                | ------------------                     | ---                                                            |    ---                                                                                                       |
 |    01    | Topic               | [Read](./ReadClasses/Read-Class-01.md) | [Lab](https://github.com/Esmail-Jawabreh/snakes-cafe)          | [CC](https://github.com/Esmail-Jawabreh/data-structures-and-algorithms/tree/main/CC/reverseArray)         |
 |    02    | Testing and Modules | [Read](./ReadClasses/Read-Class-02.md) | [Lab](https://github.com/Esmail-Jawabreh/math-series)          | [CC](https://github.com/Esmail-Jawabreh/data-structures-and-algorithms/tree/main/CC/arrayInsertShift)     |
