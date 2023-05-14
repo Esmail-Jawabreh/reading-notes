@@ -33,8 +33,8 @@
 |    09    | Ten Thousand 4      | [Read](./ReadClasses/Read-Class-09.md) | [Lab](https://github.com/Esmail-Jawabreh/ten-thousand)         | [CC](https://github.com/Esmail-Jawabreh/data-structures-and-algorithms/tree/main/CC/Mock_Interviews/CC09) |
 |    10    | Stacks and Queues   | [Read](./ReadClasses/Read-Class-10.md) | - - -                                                          | [CC](https://github.com/Esmail-Jawabreh/data-structures-and-algorithms/tree/main/CC/stack_and_queue)      |
 |    11    | Data Analysis       | [Read](./ReadClasses/Read-Class-11.md) | [Lab](https://github.com/Esmail-Jawabreh/1980-ChessBoard)      | [CC](https://github.com/Esmail-Jawabreh/data-structures-and-algorithms/tree/main/CC/stack_and_queue)      |
-|    12    | Topic               | [Read](./ReadClasses/Read-Class-12.md) | [Lab]()      | [CC]()      |
-
+|    12    | Topic               | [Read](./ReadClasses/Read-Class-12.md) | [Lab](https://www.kaggle.com/code/esmailjawabreh/vg-stats)     | [CC](https://github.com/Esmail-Jawabreh/data-structures-and-algorithms/tree/main/CC/stack_and_queue)      |
+|    13    | Linear Regressions  | [Read](./ReadClasses/Read-Class-13.md) | [Lab]() | [CC]() |
 --- 
 
 **- Esmail Jawabreh**
