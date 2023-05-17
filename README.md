@@ -35,8 +35,8 @@
 |    11    | Data Analysis       | [Read](./ReadClasses/Read-Class-11.md) | [Lab](https://github.com/Esmail-Jawabreh/1980-ChessBoard)           | [CC](https://github.com/Esmail-Jawabreh/data-structures-and-algorithms/tree/main/CC/stack_and_queue)      |
 |    12    | Topic               | [Read](./ReadClasses/Read-Class-12.md) | [Lab](https://www.kaggle.com/code/esmailjawabreh/vg-stats)          | [CC](https://github.com/Esmail-Jawabreh/data-structures-and-algorithms/tree/main/CC/stack_and_queue)      |
 |    13    | Linear Regressions  | [Read](./ReadClasses/Read-Class-13.md) | [Lab](https://www.kaggle.com/code/esmailjawabreh/linear-regression) | [CC](https://github.com/Esmail-Jawabreh/data-structures-and-algorithms/tree/main/CC/stack_and_queue)      |
-|    14    | Data Visualization  | [Read](./ReadClasses/Read-Class-14.md) | [Lab]() | [CC]() |
-
+|    14    | Data Visualization  | [Read](./ReadClasses/Read-Class-14.md) | [Lab](https://www.kaggle.com/esmailjawabreh/visual-sales)           | [CC](https://github.com/Esmail-Jawabreh/data-structures-and-algorithms/tree/main/CC/Mock_Interviews/CC14) |
+|    15    | Trees               | [Read](./ReadClasses/Read-Class-15.md) | - - -                                                               | [CC]() | 
 
 --- 
 
