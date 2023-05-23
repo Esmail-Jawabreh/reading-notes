@@ -38,7 +38,8 @@
 |    14    | Data Visualization   | [Read](./ReadClasses/Read-Class-14.md) | [Lab](https://www.kaggle.com/esmailjawabreh/visual-sales)           | [CC](https://github.com/Esmail-Jawabreh/data-structures-and-algorithms/tree/main/CC/Mock_Interviews/CC14) |
 |    15    | Trees                | [Read](./ReadClasses/Read-Class-15.md) | - - -                                                               | [CC](https://github.com/Esmail-Jawabreh/data-structures-and-algorithms/tree/main/CC/trees)                | 
 |    16    | Serverless Functions | [Read](./ReadClasses/Read-Class-16.md) | [Lab](https://github.com/Esmail-Jawabreh/capital-finder)            | [CC](https://github.com/Esmail-Jawabreh/data-structures-and-algorithms/tree/main/CC/trees)                |
-|    17    | Web Scraping         | [Read](./ReadClasses/Read-Class-17.md) | [Lab]()            | [CC]()                |
+|    17    | Web Scraping         | [Read](./ReadClasses/Read-Class-17.md) | [Lab](https://github.com/Esmail-Jawabreh/capital-finder)            | [CC](https://github.com/Esmail-Jawabreh/data-structures-and-algorithms/tree/main/CC/trees)                |
+|    18    | Cryptography         | [Read](./ReadClasses/Read-Class-18.md) | [Lab]()            | [CC]()                |
 
 --- 
 
