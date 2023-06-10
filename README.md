@@ -40,6 +40,7 @@
 |    16    | Serverless Functions | [Read](./ReadClasses/Read-Class-16.md) | [Lab](https://github.com/Esmail-Jawabreh/capital-finder)            | [CC](https://github.com/Esmail-Jawabreh/data-structures-and-algorithms/tree/main/CC/trees)                |
 |    17    | Web Scraping         | [Read](./ReadClasses/Read-Class-17.md) | [Lab](https://github.com/Esmail-Jawabreh/capital-finder)            | [CC](https://github.com/Esmail-Jawabreh/data-structures-and-algorithms/tree/main/CC/trees)                |
 |    18    | Cryptography         | [Read](./ReadClasses/Read-Class-18.md) | [Lab]()            | [CC]()                |
+|    26    | Intro to Django      | [Read](./ReadClasses/Read-Class-26.md) | [Lab]()            | [CC]()                |
 
 --- 
 
