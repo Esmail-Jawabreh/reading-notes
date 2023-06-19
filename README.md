@@ -39,9 +39,10 @@
 |    15    | Trees                | [Read](./ReadClasses/Read-Class-15.md) | - - -                                                                                                          | [CC](https://github.com/Esmail-Jawabreh/data-structures-and-algorithms/tree/main/CC/trees)                | 
 |    16    | Serverless Functions | [Read](./ReadClasses/Read-Class-16.md) | [Lab](https://github.com/Esmail-Jawabreh/capital-finder)                                                       | [CC](https://github.com/Esmail-Jawabreh/data-structures-and-algorithms/tree/main/CC/trees)                |
 |    17    | Web Scraping         | [Read](./ReadClasses/Read-Class-17.md) | [Lab](https://github.com/Esmail-Jawabreh/capital-finder)                                                       | [CC](https://github.com/Esmail-Jawabreh/data-structures-and-algorithms/tree/main/CC/trees)                |
-|    18    | Cryptography         | [Read](./ReadClasses/Read-Class-18.md) | [Lab]()                                                                                                        | [CC]()                                                                                                    |
+|    18    | Cryptography         | [Read](./ReadClasses/Read-Class-18.md) | - - -                                                                                                          | - - -                                                                                                     |
 |    26    | Intro to Django      | [Read](./ReadClasses/Read-Class-26.md) | [Lab](https://github.com/Esmail-Jawabreh/data-structures-and-algorithms/tree/main/CC/insertionSort)            | [CC](https://github.com/Esmail-Jawabreh/django-snacks)                                                    |
-|    27    | Django Models        | [Read](./ReadClasses/Read-Class-27.md) | [Lab]()            | [CC]()                                                    |
+|    27    | Django Models        | [Read](./ReadClasses/Read-Class-27.md) | [Lab](https://github.com/Esmail-Jawabreh/django-models)                                                        | [CC](https://github.com/Esmail-Jawabreh/data-structures-and-algorithms/tree/main/CC/sorting/Merge)        |
+|    28    | Django Models        | [Read](./ReadClasses/Read-Class-28.md) | [Lab]()  | [CC]() |
 
 --- 
 
