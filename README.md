@@ -42,7 +42,7 @@
 |    18    | Cryptography         | [Read](./ReadClasses/Read-Class-18.md) | - - -                                                                                                          | - - -                                                                                                     |
 |    26    | Intro to Django      | [Read](./ReadClasses/Read-Class-26.md) | [Lab](https://github.com/Esmail-Jawabreh/data-structures-and-algorithms/tree/main/CC/insertionSort)            | [CC](https://github.com/Esmail-Jawabreh/django-snacks)                                                    |
 |    27    | Django Models        | [Read](./ReadClasses/Read-Class-27.md) | [Lab](https://github.com/Esmail-Jawabreh/django-models)                                                        | [CC](https://github.com/Esmail-Jawabreh/data-structures-and-algorithms/tree/main/CC/sorting/Merge)        |
-|    28    | Django Models        | [Read](./ReadClasses/Read-Class-28.md) | [Lab]()  | [CC]() |
+|    28    | Django Forms         | [Read](./ReadClasses/Read-Class-28.md) | [Lab]()  | [CC]() |
 
 --- 
 
