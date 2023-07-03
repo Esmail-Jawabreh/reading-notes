@@ -45,7 +45,8 @@
 |    28    | Django Forms                   | [Read](./ReadClasses/Read-Class-28.md) | [Lab](https://github.com/Esmail-Jawabreh/snacks_crud)               | [CC](https://github.com/Esmail-Jawabreh/data-structures-and-algorithms/tree/main/CC/sorting/Comparisons)  |
 |    29    | Django Custom User             | [Read](./ReadClasses/Read-Class-29.md) | [Lab](https://github.com/Esmail-Jawabreh/Cars-DjangoCRUD)           | [CC](https://github.com/Esmail-Jawabreh/data-structures-and-algorithms/tree/main/CC/Mock_Interviews/CC29) |
 |    30    | Hash Tables                    | [Read](./ReadClasses/Read-Class-30.md) | - - -                                                               | [CC](https://github.com/Esmail-Jawabreh/data-structures-and-algorithms/tree/main/CC/hashTables)           |
-|    31    | Django REST Framework & Docker | [Read](./ReadClasses/Read-Class-31.md) | [Lab]()           | [CC]() |
+|    31    | Django REST Framework & Docker | [Read](./ReadClasses/Read-Class-31.md) | [Lab]()           | [CC](https://github.com/Esmail-Jawabreh/data-structures-and-algorithms/tree/main/CC/hashTables) |
+|    32    | Permissions & Postgresql       | [Read](./ReadClasses/Read-Class-32.md) | [Lab]()           | [CC]() |
 
 --- 
 
