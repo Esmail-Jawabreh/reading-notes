@@ -48,7 +48,7 @@
 |    31    | Django REST Framework & Docker     | [Read](./ReadClasses/Read-Class-31.md) | [Lab](https://github.com/Esmail-Jawabreh/Cars_Docker)                  | [CC](https://github.com/Esmail-Jawabreh/data-structures-and-algorithms/tree/main/CC/hashTables)           |
 |    32    | Permissions & Postgresql           | [Read](./ReadClasses/Read-Class-32.md) | [Lab](https://github.com/Esmail-Jawabreh/drf-api-permissions-postgres) | [CC](https://github.com/Esmail-Jawabreh/data-structures-and-algorithms/tree/main/CC/trees)                |
 |    33    | Authentication & Production Server | [Read](./ReadClasses/Read-Class-33.md) | [Lab](https://github.com/Esmail-Jawabreh/drf-auth)                     | [CC](https://github.com/Esmail-Jawabreh/data-structures-and-algorithms/tree/main/CC/hashTables)           |
-|    34    | Authentication & Production Server | [Read](./ReadClasses/Read-Class-34.md) | [Lab]()           | [CC]() |
+|    34    | API Deployment                     | [Read](./ReadClasses/Read-Class-34.md) | [Lab]()           | [CC]() |
 
 --- 
 
