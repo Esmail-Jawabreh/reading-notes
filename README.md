@@ -49,7 +49,9 @@
 |    32    | Permissions & Postgresql           | [Read](./ReadClasses/Read-Class-32.md) | [Lab](https://github.com/Esmail-Jawabreh/drf-api-permissions-postgres) | [CC](https://github.com/Esmail-Jawabreh/data-structures-and-algorithms/tree/main/CC/trees)                |
 |    33    | Authentication & Production Server | [Read](./ReadClasses/Read-Class-33.md) | [Lab](https://github.com/Esmail-Jawabreh/drf-auth)                     | [CC](https://github.com/Esmail-Jawabreh/data-structures-and-algorithms/tree/main/CC/hashTables)           |
 |    34    | API Deployment                     | [Read](./ReadClasses/Read-Class-34.md) | [Lab](https://github.com/Esmail-Jawabreh/cookie-stand-api)             | [CC](https://github.com/Esmail-Jawabreh/data-structures-and-algorithms/tree/main/CC/Mock_Interviews/CC34) |
-|    35    | Graphs                             | [Read](./ReadClasses/Read-Class-35.md) | - - -                                                                  | [CC]() |
+|    35    | Graphs                             | [Read](./ReadClasses/Read-Class-35.md) | - - -                                                                  | [CC](https://github.com/Esmail-Jawabreh/data-structures-and-algorithms/tree/main/CC/graphs)               |
+|    36    | DSA Review                         | [Read](./ReadClasses/Read-Class-36.md) | [Lab]()             | [CC]() |
+|    37    | React 1                            | [Read](./ReadClasses/Read-Class-37.md) | [Lab]()             | [CC]() |
 
 
 --- 
