@@ -53,7 +53,7 @@
 |    36    | DSA Review                         | [Read](./ReadClasses/Read-Class-36.md) | [Lab](https://github.com/Esmail-Jawabreh/Computational-Thinking)       | [CC](https://github.com/Esmail-Jawabreh/data-structures-and-algorithms/tree/main/CC/graphs)               |
 |    37    | React 1                            | [Read](./ReadClasses/Read-Class-37.md) | [Lab](https://github.com/Esmail-Jawabreh/cookie-stand-admin)           | [CC](https://github.com/Esmail-Jawabreh/data-structures-and-algorithms/tree/main/CC/graphs)               |
 |    38    | React 2                            | [Read](./ReadClasses/Read-Class-38.md) | [Lab]() | [CC]() |
-
+|    39    | React 3                            | [Read](./ReadClasses/Read-Class-39.md) | [Lab]() | [CC]() |
 
 --- 
 
